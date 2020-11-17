@@ -5,6 +5,6 @@
 #Begin infinite loop:
 
 i = 0
-while i < 3:
+while i < 4:
   print('{}) Hello world.'.format(i))
-  i += 1
+  i += 1  
