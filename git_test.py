@@ -4,7 +4,7 @@
 
 #Begin infinite loop:
 
-i = 1
-while i == 1:
-  print('Hello world.')
-  i = 1
+i = 0
+while i < 3:
+  print('{}) Hello world.'.format(i))
+  i += 1
